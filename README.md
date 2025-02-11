@@ -15,7 +15,6 @@ Pre-written SQL queries for insights (fraud detection, category spending, etc.).
 🔎 Fraud Analysis: Fraudulent vs. genuine transactions.
 🏧 Transaction Type Comparison: ATM withdrawals, online transactions, POS, etc.
 
-![CREDIT_Card_Dashboard](https://github.com/user-attachments/assets/50590487-2383-4322-b7f7-ccb725db597e)
 
 
 
